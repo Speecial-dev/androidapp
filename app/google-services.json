@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391653609570",
+    "project_id": "whatsautomessage",
+    "storage_bucket": "whatsautomessage.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391653609570:android:249db2a33281c0f2e6413b",
+        "android_client_info": {
+          "package_name": "com.example.whatsautomessage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDd8ar8-5DiSTbobWVJ3-AsnU661ZpUz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
