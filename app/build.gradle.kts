@@ -1,7 +1,7 @@
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
-    id("com.google.gms.google-services") version "4.4.0" apply false
+    id("com.google.gms.google-services")
 
 }
 
@@ -61,9 +61,6 @@ dependencies {
 // Firebase Realtime Database
     implementation("com.google.firebase:firebase-database-ktx")
 
-
-    implementation("com.google.firebase:firebase-database-ktx:20.3.0")
-
     implementation("androidx.navigation:navigation-compose:2.7.5")
 
     implementation("androidx.core:core-ktx:1.9.0")
@@ -83,4 +80,3 @@ dependencies {
     debugImplementation("androidx.compose.ui:ui-tooling")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
 }
-apply(plugin = "com.google.gms.google-services")

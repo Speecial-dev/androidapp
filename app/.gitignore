@@ -1,1 +1,8 @@
-/build
+# Sadece google-services.json dosyasını ignore et
+**/google-services.json
+
+# Android için önerilen ignore'lar
+/.gradle/
+/.idea/
+*.iml
+/build/
